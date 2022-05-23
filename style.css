@@ -1,0 +1,12 @@
+*{
+    /* background-color: brown; */
+}
+
+nav{
+    display: flex;
+    justify-content: space-around;
+}
+
+nav p{
+    color: blue;
+}
